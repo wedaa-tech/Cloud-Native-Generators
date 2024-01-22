@@ -34,3 +34,15 @@ Apache-2.0 © [wedaa-tech](https://www.wedaa.tech/)
 [travis-url]: https://travis-ci.com/wedaa-tech/generator-knative
 [daviddm-image]: https://david-dm.org/wedaa-tech/generator-knative.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/wedaa-tech/generator-knative
+
+## How to use the generator-knative? 
+
+### Using command line arguments
+```
+yo knative 
+```
+
+### Using Json file 
+```
+yo knative --file ./sample/example.json  
+```

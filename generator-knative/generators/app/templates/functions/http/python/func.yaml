@@ -1,0 +1,4 @@
+specVersion: 0.35.0
+name: <%= functionName %>
+runtime: python
+created: 2024-01-21T22:18:05.422254526+05:30
