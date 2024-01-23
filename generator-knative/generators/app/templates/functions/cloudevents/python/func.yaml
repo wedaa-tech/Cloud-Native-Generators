@@ -1,0 +1,5 @@
+specVersion: 0.35.0
+name: <%= functionName %>
+runtime: python
+created: 2024-01-21T22:16:14.654004233+05:30
+invoke: cloudevent

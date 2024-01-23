@@ -1,0 +1,6 @@
+{
+  "deploymentOptions": "minikube",
+  "functionTemplate": "http",
+  "functionLanguage": "node",
+  "functionName": "sample"
+}

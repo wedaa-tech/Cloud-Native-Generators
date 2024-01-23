@@ -1,0 +1,5 @@
+specVersion: 0.35.0
+name: <%= functionName %>
+runtime: node
+created: 2024-01-21T22:15:26.388586606+05:30
+invoke: cloudevent
